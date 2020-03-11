@@ -18,7 +18,7 @@ Version 1.0
 ######################################################################################################################################################################
 bufferSize = 64 * 1024
 def howToWork():
-    webbrowser.open('https://github.com/', new=2)
+    webbrowser.open('https://github.com/Guezone/RatpyEncryptor/', new=2)
 def popUpBadType():
     BadTypePopUP = Tk()
     BadTypePopUP.geometry("450x100")
