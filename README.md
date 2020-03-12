@@ -43,5 +43,5 @@ You can download the executable versions of the utility on these two links :
 > The executable is not signed, browsers may detect a threat.
 
 ## Contact-me
--   Join the chat : (https://discord.gg/bFwPjV6)
+-   Join the chat : https://discord.gg/bFwPjV6
 -   Send me an e-mail :  [custodio.aubin@outlook.com](mailto:guezpics@gmail.com)
