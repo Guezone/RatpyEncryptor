@@ -43,5 +43,5 @@ You can download the executable versions of the utility on these two links :
 > The executable is not signed, browsers may detect a threat.
 
 ## Contact-me
--   Join the chat  [![https://discord.gg/bFwPjV6](https://camo.githubusercontent.com/bf2eef61f815ac68c13ec948eb914c9d471781da/68747470733a2f2f646973636f72642e67672f624677506a5636)](https://camo.githubusercontent.com/bf2eef61f815ac68c13ec948eb914c9d471781da/68747470733a2f2f646973636f72642e67672f624677506a5636)
+-   Join the chat : (https://discord.gg/bFwPjV6)
 -   Send me an e-mail :  [custodio.aubin@outlook.com](mailto:guezpics@gmail.com)
