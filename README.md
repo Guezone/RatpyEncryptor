@@ -1,6 +1,6 @@
 # RatpyEncryptor
-File and folder encryption software, in full GUI.
 ![enter image description here](locked.ico)
+File and folder encryption software, in full GUI.
 ## Usage
 ![enter image description here](Usage.png)
 
@@ -19,6 +19,7 @@ Ratpy Encryptor uses the Python "os" and "webbrowser" libraries. You will need t
 
 You can use pip to install these libraries :
 > pip install tk
+
 > pip install pyaescrypt
 
 You can also download the executable versions in the Download section below.
@@ -28,11 +29,13 @@ Symmetric encryption is used in this program, and more specifically the AES algo
 
 The library precisely uses the AES-CBC method with 256-bit keys. Here is a diagram of this method:
 ![enter image description here](AES-256-CBC.PNG)
+
 Your password is used to generate the AES symmetric encryption key. It is then coupled to a random IV (initialization vector). This couple makes it possible to encrypt a block of data with a XOR operation.
 
 ## Download 
 You can download the executable versions of the utility on these two links :
 [Windows executable](https://1drv.ms/u/s!Av29I-NvEXBP3TniLuIArnE7URtq?e=2B78G0)
+
 [Mac OS X - to come up](to%20come%20up)
 
 ## Contact-me
