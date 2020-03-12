@@ -1,5 +1,6 @@
 # RatpyEncryptor
 ![enter image description here](locked.ico)
+
 File and folder encryption software, in full GUI.
 ## Usage
 ![enter image description here](Usage.png)
@@ -34,6 +35,7 @@ Your password is used to generate the AES symmetric encryption key. It is then c
 
 ## Download 
 You can download the executable versions of the utility on these two links :
+
 [Windows executable](https://1drv.ms/u/s!Av29I-NvEXBP3TniLuIArnE7URtq?e=2B78G0)
 
 [Mac OS X - to come up](to%20come%20up)
