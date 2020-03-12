@@ -24,6 +24,7 @@ def howToWork():
 def popUpError():
     errorPopUp = Tk()
     errorPopUp.geometry("200x100")
+    errorPopUp.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = errorPopUp.winfo_reqwidth()
     windowHeight = errorPopUp.winfo_reqheight()
@@ -43,6 +44,7 @@ def popUpError():
 def popUpFailedToDecrypt():
     failedPopUP = Tk()
     failedPopUP.geometry("600x100")
+    failedPopUP.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = failedPopUP.winfo_reqwidth()
     windowHeight = failedPopUP.winfo_reqheight()
@@ -62,6 +64,7 @@ def popUpFailedToDecrypt():
 def popUpSuccessToDecrypt():
     donePopUP = Tk()
     donePopUP.geometry("300x100")
+    donePopUP.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = donePopUP.winfo_reqwidth()
     windowHeight = donePopUP.winfo_reqheight()
@@ -81,6 +84,7 @@ def popUpSuccessToDecrypt():
 def popUpSuccessToEncrypt():
     done2PopUP = Tk()
     done2PopUP.geometry("300x100")
+    done2PopUP.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = done2PopUP.winfo_reqwidth()
     windowHeight = done2PopUP.winfo_reqheight()
@@ -100,6 +104,7 @@ def popUpSuccessToEncrypt():
 def popUpWarning():
     warningPopUP = Tk()
     warningPopUP.geometry("500x100")
+    warningPopUP.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = warningPopUP.winfo_reqwidth()
     windowHeight = warningPopUP.winfo_reqheight()
@@ -119,6 +124,7 @@ def popUpWarning():
 def popUpEmptyPassword():
     emptyPasswordPopUP = Tk()
     emptyPasswordPopUP.geometry("450x100")
+    emptyPopUP.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = emptyPasswordPopUP.winfo_reqwidth()
     windowHeight = emptyPasswordPopUP.winfo_reqheight()
@@ -138,6 +144,7 @@ def popUpEmptyPassword():
 def popUpNoFileSelected():
     noFileSelectedPopUP = Tk()
     noFileSelectedPopUP.geometry("450x100")
+    noFilePopUP.iconbitmap("locked.ico")
     # Gets the requested values of the height and widht.
     windowWidth = noFileSelectedPopUP.winfo_reqwidth()
     windowHeight = noFileSelectedPopUP.winfo_reqheight()
@@ -257,6 +264,7 @@ popUpWarning()
 gui = Tk()
 gui.title("Ratpy Encryptor")
 gui.geometry("260x232")
+gui.iconbitmap("locked.ico")
 windowWidth = gui.winfo_reqwidth()
 windowHeight = gui.winfo_reqheight()
 positionRight = int(gui.winfo_screenwidth()/2 - windowWidth/2)
