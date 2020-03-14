@@ -38,7 +38,7 @@ You can download the executable versions of the utility on these two links :
 
 [Windows executable](https://1drv.ms/u/s!Av29I-NvEXBP3TniLuIArnE7URtq?e=2B78G0)
 
-[Mac OS X app](https://1drv.ms/u/s!Av29I-NvEXBP3T7v5QWpiWKhL0fF?e=doIS8y)
+[Mac OS X app](https://1drv.ms/u/s!Av29I-NvEXBP3h-Ut0n1Jc9I46oS?e=ShyBl6)
 
 > The executable is not signed, browsers may detect a threat.
 
